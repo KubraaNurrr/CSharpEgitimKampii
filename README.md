@@ -8,4 +8,4 @@ Bu proje ile konsola temel yazdırma komutlarını yazdırmayı deneyimledim. Co
 ## 📍📍  Proje 2: Değişkenler (🔄)
 Bu projemde Int, String, Double, Char gibi değişkenleri kavrarken pratik alıştırmalar yaptım. Kullanıcıdan veriler alarak ona uygun projeler gerçekleştirdim.
 
-## 📍📍  Proje 2:  Diziler (Arrays)
+## 📍📍  Proje 3:  
