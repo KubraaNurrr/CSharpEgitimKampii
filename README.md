@@ -1,6 +1,6 @@
 # 🚀 C# EĞİTİM KAMPI PROJELERİ
 
-Merhabalar, bu repo Murat Yücedağ hocamızın eğitmenliği ile gerçekleştirilen C# Eğitim Kampı süresince gerçekleştirdiğim projeleri içermektedir. Her proje ile belirli programları öğrenip, öğrendiklerime sırasıyla uygulamalar yaparak kendimi geliştirmemi sağladı. Her projeye ait bilgiler ve teknikler şu şekildedir:
+Merhabalar, bu repo Murat Yücedağ hocamızın eğitmenliği ile gerçekleştirilen C# Eğitim Kampı süresince gerçekleştirdiğim projeleri içermektedir. Her proje ile belirli programları öğrenip, öğrendiklerimi sırasıyla uygulamalar yaparak kendimi geliştirmemi sağladı. Her projeye ait bilgiler ve teknikler şu şekildedir:
 
 ## 📍📍  Proje 1: Merhaba Dünya ! (🌍)
 Bu proje ile konsola temel yazdırma komutlarını yazdırmayı deneyimledim. Console.WriteLine() , Console.Read() gibi komutlarla alıştırmalar yaptım. C# programına dair genel bilgiler öğrendim.
