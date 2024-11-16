@@ -1,0 +1,8 @@
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\bin\Debug\05_LoopWihtStars.exe.config
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\bin\Debug\05_LoopWihtStars.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\bin\Debug\05_LoopWihtStars.pdb
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\obj\Debug\05_LoopWihtStars.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\obj\Debug\05_LoopWihtStars.csproj.CoreCompileInputs.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\obj\Debug\05_LoopWihtStars.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\obj\Debug\05_LoopWihtStars.pdb
+C:\Users\hadim\source\repos\CSharpEgitimKampii\05_LoopWihtStars\obj\Debug\05_LoopWihtStars.csproj.AssemblyReference.cache
