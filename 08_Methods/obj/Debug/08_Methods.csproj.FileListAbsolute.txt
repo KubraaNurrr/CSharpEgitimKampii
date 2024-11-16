@@ -1,0 +1,8 @@
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\obj\Debug\08_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\08_Methods\obj\Debug\08_Methods.pdb
