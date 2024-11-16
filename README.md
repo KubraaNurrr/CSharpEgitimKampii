@@ -9,7 +9,7 @@ Bu proje ile konsola temel yazdırma komutlarını yazdırmayı deneyimledim. Co
 Bu projemde Int, String, Double, Char gibi değişkenleri kavrarken pratik alıştırmalar yaptım. Kullanıcıdan veriler alarak ona uygun projeler gerçekleştirdim.
 
 ## 📍📍  Proje 3:  Karar Yapıları (🧐)
-Projemizin bu aşamasında If - Else gibi karar yapaılarını kullanmayı deneyimledim. Şifre oluşturma, mod çalışması, menü projesi, switch case ile hesap makinesi oluşturma gibi prolerle pekiştirdim.
+Projemizin bu aşamasında If - Else gibi karar yapılarını kullanmayı deneyimledim. Şifre oluşturma, mod çalışması, menü projesi, switch case ile hesap makinesi oluşturma gibi prolerle pekiştirdim.
 
 ## 📍📍  Proje 4: Döngüler (🔄)
 Projemizde For - While döngülerinin arasındaki farkı öğrenirken bunları pekiştirmek adına birkaç tane örneklerle çalışmalarım mevcuttur.
