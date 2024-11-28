@@ -1,0 +1,8 @@
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\hadim\source\repos\CSharpEgitimKampii\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
