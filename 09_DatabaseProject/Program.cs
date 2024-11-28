@@ -34,7 +34,7 @@ namespace _09_DatabaseProject
 
             //SQL bağlantısı için kullanılacak komut --> SqlConnection 
 
-            SqlConnection connection = new SqlConnection("Data Source=LAPTOP-031GI5CN; initial Catalog=EgitimKampiDb; integrated security=true ");
+            SqlConnection connection = new SqlConnection("Data Source=LAPTOP-********; initial Catalog=EgitimKampiDb; integrated security=true ");
             connection.Open();
             SqlCommand command = new SqlCommand("Select * From TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
