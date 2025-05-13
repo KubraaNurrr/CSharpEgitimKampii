@@ -26,4 +26,5 @@ Foreach döngüsünü diğer döngülerden ayıran özelliğini keşfettim. Bu d
 ## 📍📍  Proje 8: Metotlar (💫)
 Metotların geriye değer döndüren ve geriye değer döndürmeyen metotlar olarak 2 çeşidi olduğunu öğrendim. Bu iki çeşit arasındaki farkı anlayarak ikisi için de string ve int türünde çalışmalar yaptım. En sonunda ise bu konuya uygun öğrenci notlarını alarak ortalamasını hesaplatıp geçip kalma durumlarını incelediğim bir uygulama üzerinde çalıştım.
 
-
+## 📍📍  Proje 9 - 10: SQL Bağlantısı
+Veritanında ki verilere bağlanararak çalışmalarıma devam ettim.
